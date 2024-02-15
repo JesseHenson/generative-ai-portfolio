@@ -1,0 +1,138 @@
+
+{
+    "title": {
+        "text": {
+          "headline": "Timeline of my AI experience",
+          "text": "<p>From Python automation and front-end to full AI solutioning</p>"
+        }
+    },
+    "events": [
+      {
+        
+        "start_date": {
+          "year": "2018",
+          "month":"1"
+        },
+        "text": {
+          "headline": "Python Automation",
+          "text": "<p>Building a platform migration tool fully implemented in jupyter notebooks</p>"
+        }
+      },
+      {
+        
+        "start_date": {
+          "year": "2018",
+          "month":"7"
+        },
+        "text": {
+          "headline": "React, Django, and Beyond",
+          "text": "<p>Understanding the frontend development space, including Edge CDN serverless space and graphQL ecosystem.</p>"
+        }
+      },
+      {
+        
+        "start_date": {
+          "year": "2019",
+          "month":"1"
+        },
+        "text": {
+          "headline": "Azure Virtual Desktop and SQL Server space",
+          "text": "Designed and Tested a solution to bring a payroll company fully remote and in the cloud using Azure virtual desktop and SQL Server.  This allowed us to test new security measures and continue to operate during the pandemic."
+        }
+      },
+      {
+        
+        "start_date": {
+          "year": "2021",
+          "month":"6"
+        },
+        "text": {
+          "headline": "ETL Space",
+          "text": "Designed, tested and debugged production level ETL solution for a large telecom company. Allowing for the streamlined divestiture of 10's of millions of dollars in obsolete inventory"
+        }
+      },
+      {
+        
+        "start_date": {
+          "year": "2022",
+          "month":"6"
+        },
+        "text": {
+          "headline": "Data Science for the win!",
+          "text": "Designed, implemented and tested a production solution for price optimization and inventory forecasting. Saving a fortune 100 manufacturing company upwards of 2 million dollars per year."
+        }
+      },
+      {
+        
+        "start_date": {
+          "year": "2023",
+          "month":"12"
+        },
+        "text": {
+          "headline": "ML from file to full fledged tracking",
+          "text": "Redesigned and optimized ML Environment for a fortune 100 telecom company. Allowing them to streamline the entire ML growth process. Moved them from a file for tracking ML to a full dashboard with distributed ML capabilties!"
+        }
+      },
+      {
+        
+        "start_date": {
+          "year": "2021",
+          "month":"11"
+        },
+        "text": {
+          "headline": "Masters of Science in AI and ML",
+          "text": "Business-centric approach to learning and understanding the underlying math and logic behind some of the most popular ML and AI algorithms."
+        }
+      },
+        {
+         
+          "start_date": {
+            "year": "2022",
+            "month":"12"
+          },
+          "text": {
+            "headline": "Deep Fake Mitigation with Image Segmentation and Cyber Secrurity Techniques",
+            
+            "text": "Designed and implemented a solution to mitigate the impact of deep-fake technology on socio-economic systems.  This solution was implemented in a production environment and was able to create authentication keys related to watermarks produced by the company uploading the media."
+          }
+        },
+        
+        {
+          
+          "start_date": {
+            "year": "2019",
+            "month":"12"
+          },
+          "text": {
+            "headline": "React, GraphQL and Gatsby",
+            
+            "text": "Built several progressive web applications for use with Gatsby, React and other front-end tools. This allowed me to understand the front-end development space and how to build a full stack application."
+          }
+        },
+        {
+          
+          "start_date": {
+            "year": "2024",
+            "month":"2"
+          },
+          "text": {
+            "headline": "Get Insights into your resume and whether that job will fit you",
+            
+            "text": "Using Advanced Generative AI techniques, I was able to build a solution that would allow you to upload your resume and get insights into whether that job would be a good fit for you.  This solution was built using a combination of vector embedding and retrieval agemented generation."
+          }
+        },
+        {
+          
+          "start_date": {
+            "year": "2024",
+            "month":"6"
+          },
+          "text": {
+            "headline": "Get inspired with the newest jobs in AI and tech",
+            
+            "text": "Using advanced generative AI agents to produce the top news for the week.  This solution was built using a combination of langchain agents and retrieval agemented generation."
+          }
+        }
+        
+    ]
+}

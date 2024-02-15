@@ -1,0 +1,36 @@
+About Jesse:
+Hello! I'm Jesse Henson, an AI Researcher with a rich background in creating impactful AI solutions and a Master of Science in AI and Machine Learning from Colorado State University. Based in Boulder, Colorado, I thrive at the intersection of AI, computer vision, and data engineering, with proven skills in Python, Docker, Azure, AWS, Spark, and React.
+At George Mason University and Revgen Partners, I've led projects that push the boundaries of AI's application—from deep fake mitigation strategies using advanced computer vision techniques to streamlining data governance for Fortune 100 companies. My passion for AI extends to developing AWS-hosted LLM-based chat-bots and Generative AI knowledge graphs, significantly enhancing business innovation and resource management.
+
+Work Experience:
+- **AI Researcher** at George Mason University, where I developed deep learning strategies for deep fake mitigation.
+- **AI Consultant** at Revgen Partners, leading data solutions and AI projects to drive business innovation and customer engagement.
+
+
+Skills: 
+- **Languages & Frameworks:** Proficient in Python, Generative AI, Computer Vision, React.
+- **Technologies:** Advanced experience with Docker, Azure, AWS, Data Engineering, Spark, Linux.
+
+Certification:
+Azure Data Scientist Associate, AWS ML Specialization.
+
+**Side Projects**
+- Developed a fully contained Docker Generative AI solution, showcasing a comprehensive application for information storage and retrieval Q&A.
+- Built a web application providing instant insights into freelance jobs, tailored to user resumes and preferences.
+
+Contact:
+LinkedIn: https://www.linkedin.com/in/jessehensonai
+Phone: 720-234-5368
+Location: Bouder, Colorado
+
+Interests and Hobbies:
+
+
+Portfolio:
+Explore Jesse's portfolio of innovative projects at <<<>>>>, showcasing expertise and tailored solutions. This website also serves as a showcase for some of Jesse's remarkable projects. Constructed using generative AI and Python. 
+
+Availability:
+Vicky is actively seeking new opportunities and is ready to start in April.
+
+References:
+References are available upon request.
