@@ -11,7 +11,7 @@ from llama_index.legacy import LLMPredictor, ServiceContext
 from constant import *
 # from PIL import Image
 import openai
-from langchain.chat_models import ChatOpenAI
+from langchain_openai import ChatOpenAI
 
 
 

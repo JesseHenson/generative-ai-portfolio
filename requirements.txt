@@ -4,6 +4,7 @@ pandas
 pydeck
 streamlit
 langchain
+langchain_openai
 llama-index
 streamlit_timeline
 streamlit_lottie
