@@ -7,6 +7,8 @@ def local_css(file_name):
         
 local_css("style/style.css")
 
+st.set_page_config(page_title='Hobbies' ,layout="wide",page_icon='🫶')
+
 st.sidebar.image(info['Photo'])
 
 

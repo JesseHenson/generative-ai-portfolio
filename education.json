@@ -1,0 +1,123 @@
+
+{
+    "title": {
+        "text": {
+          "headline": "B.S. Accounting To M.S. Artificial Intelligence and Machine Learning",
+          "text": "<p>From Fin to Tech</p>"
+        }
+    },
+    "events": [
+      {
+        
+        "start_date": {
+          "year": "2017"
+        },
+        "text": {
+          "headline": "BS Accounting",
+          "text": "<p>Learned financial systems and how data and business interact</p>"
+        }
+      },
+      {
+        
+        "start_date": {
+          "year": "2019"
+        },
+        "text": {
+          "headline": "Masters of Science in Artificial Intelligence and Machine Learning",
+          "text": "<p>Understanding of Logic and Reasoning and its place in AI</p>"
+        }
+      },
+      {
+        
+        "start_date": {
+          "year": "2020"
+        },
+        "text": {
+          "headline": "Masters of Science in Artificial Intelligence and Machine Learning",
+          "text": "<p>Understanding Project management and it's influence on the impact AI can have on Business solutions</p>"
+        }
+      },
+      {
+        
+        "start_date": {
+          "year": "2020"
+        },
+        "text": {
+          "headline": "Masters of Science in Artificial Intelligence and Machine Learning",
+          "text": "<p>Learning computer interface and how the hardware and operating environment impact AI</p>"
+        }
+      },
+      {
+        
+        "start_date": {
+          "year": "2021"
+        },
+        "text": {
+          "headline": "Masters of Science in Artificial Intelligence and Machine Learning",
+          "text": "<p>Learning data structures and algorithms and how they impact they relate to AI soltuioning</p>"
+        }
+      },
+      {
+        
+        "start_date": {
+          "year": "2021"
+        },
+        "text": {
+          "headline": "Masters of Science in Artificial Intelligence and Machine Learning",
+          "text": "<p>Machine Learning Statstics and Foundations</p>"
+        }
+      },
+      {
+        
+        "start_date": {
+          "year": "2021"
+        },
+        "text": {
+          "headline": "Masters of Science in Artificial Intelligence and Machine Learning",
+          "text": "<p>Deep Learning - Neural Nets Theory and practice</p>"
+        }
+      },
+      {
+        
+        "start_date": {
+          "year": "2021"
+        },
+        "text": {
+          "headline": "FastAI Certification",
+          "text": "<p>Learning the practical side of AI</p>"
+        }
+      },
+        
+      {
+        
+        "start_date": {
+          "year": "2022"
+        },
+        "text": {
+          "headline": "Post Grad Research",
+          "text": "<p>Mitigation of Deep Fake impact using Image Segmentation and Cyber Security protocols</p>"
+        }
+      },
+      {
+        
+        "start_date": {
+          "year": "2022"
+        },
+        "text": {
+          "headline": "AWS ML Specialization Certification",
+          "text": "<p>Deep Understanding of the ML Services available in AWS and their uses</p>"
+        }
+      },
+      {
+        
+        "start_date": {
+          "year": "2023"
+        },
+        "text": {
+          "headline": "Azure ML Data Scientist Specialization",
+          "text": "<p>Deep understanding of the programmatic creation of ML Jobs and productionization of ML Ednpoints in Azure</p>"
+        }
+      }
+        
+    ]
+}

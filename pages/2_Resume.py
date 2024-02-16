@@ -8,11 +8,12 @@ def local_css(file_name):
         
 local_css("style/style.css")
 
+st.set_page_config(page_title='Resume' ,layout="wide",page_icon='📝')
+
 st.sidebar.image(info['Photo'])
 
 st.title("📝 Resume")
 
-st.write("[Click here if it's blocked by your browser](https://cognitiveclass.ai/)")
 
 with open("images/resume.pdf","rb") as f:
       base64_pdf = base64.b64encode(f.read()).decode('utf-8')

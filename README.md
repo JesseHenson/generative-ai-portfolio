@@ -11,10 +11,7 @@
 1. Enter OpenAI API Key
 2. Ask any question about my path to Generative AI
 
-## Still to come: 
-1. Certs
-2. Education
-3. Apps 
+
 
 ### For more of my work see [My Portfolio](https://generative-ai-portfolio-daukgnhrbwu5cugphlvjmm.streamlit.app/)
 
