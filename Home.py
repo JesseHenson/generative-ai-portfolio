@@ -89,7 +89,7 @@ aws_lottie = load_lottieurl("https://lottie.host/1ac8922c-0da6-46ed-9f17-08afb6a
 git_lottie = load_lottieurl("https://assets9.lottiefiles.com/private_files/lf30_03cuemhb.json")
 github_lottie = load_lottieurl("https://assets8.lottiefiles.com/packages/lf20_6HFXXE.json")
 docker_lottie = load_lottieurl("https://assets4.lottiefiles.com/private_files/lf30_35uv2spq.json")
-figma_lottie = load_lottieurl("https://lottie.host/5b6292ef-a82f-4367-a66a-2f130beb5ee8/03Xm3bsVnM.json")
+# figma_lottie = load_lottieurl("https://lottie.host/5b6292ef-a82f-4367-a66a-2f130beb5ee8/03Xm3bsVnM.json")
 js_lottie = load_lottieurl("https://lottie.host/fc1ad1cd-012a-4da2-8a11-0f00da670fb9/GqPujskDlr.json")
 
 
@@ -131,8 +131,8 @@ with st.container():
         st_lottie(github_lottie,height=50,width=50, key="github", speed=2.5)
     with col2:
         st_lottie(docker_lottie,height=70,width=70, key="docker", speed=2.5)
-    with col3:
-        st_lottie(figma_lottie,height=50,width=50, key="figma", speed=2.5)
+    # with col3:
+    #     st_lottie(figma_lottie,height=50,width=50, key="figma", speed=2.5)
     with col4:
         st_lottie(js_lottie,height=50,width=50, key="js", speed=1)
     
