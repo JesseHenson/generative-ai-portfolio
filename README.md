@@ -7,6 +7,10 @@
 > - See my GenAI apps using the newest techniques 🔧
 
 
+## Explore my Resume using Chatbot
+1. Enter OpenAI API Key
+2. Ask any question about my path to Generative AI
+
 ## Still to come: 
 1. Certs
 2. Education

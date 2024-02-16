@@ -9,5 +9,5 @@ local_css("style/style.css")
 
 st.sidebar.image(info['Photo'])
 
-st.title("📝 Apps")
+st.title("📱 Apps")
 
