@@ -5,10 +5,11 @@ from constant import *
 def local_css(file_name):
     with open(file_name) as f:
         st.markdown('<style>{}</style>'.format(f.read()), unsafe_allow_html=True)
+
+st.set_page_config(page_title='Resume' ,layout="wide",page_icon='📝')
         
 local_css("style/style.css")
 
-st.set_page_config(page_title='Resume' ,layout="wide",page_icon='📝')
 
 st.sidebar.image(info['Photo'])
 

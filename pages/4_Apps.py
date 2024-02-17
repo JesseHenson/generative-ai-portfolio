@@ -5,9 +5,10 @@ def local_css(file_name):
     with open(file_name) as f:
         st.markdown('<style>{}</style>'.format(f.read()), unsafe_allow_html=True)
         
+st.set_page_config(page_title='Apps' ,layout="wide",page_icon='📱')
+
 local_css("style/style.css")
 
-st.set_page_config(page_title='Apps' ,layout="wide",page_icon='📱')
 
 st.sidebar.image(info['Photo'])
 
@@ -27,7 +28,12 @@ with st.container():
     with col1: 
         st.subheader("SQL: Under Constructions")
     with col2: 
-        st.subheader("Chatbots: Under Constructions")
+        st.subheader("GIF Creator")
+        st.image("./app_images/gif_creator.gif", 
+                caption="Upload a video | get back a gif"
+                )
+        st.page_link('https://make-a-gif-mlplve6smpn.streamlit.app/', label="App")
+        st.page_link('https://github.com/JesseHenson/Make-a-GIF', label="Repo")
     with col1:
         st.subheader("Tools Usage: Under Construction")
     with col2: 
@@ -36,3 +42,5 @@ with st.container():
         st.subheader("Graph DB Rag: Under Constructions")
     with col2: 
         st.subheader("Autonomous Agents: Under Constructions")
+    with col2: 
+        st.subheader("Chatbots: Under Constructions")
