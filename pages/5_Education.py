@@ -10,7 +10,7 @@ st.set_page_config(page_title='Education' ,layout="wide",page_icon='🎓')
 
 local_css("style/style.css")
 
-st.sidebar.image(info['Photo'])
+
 
 st.title("🎓 Education")
 

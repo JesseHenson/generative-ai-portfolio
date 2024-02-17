@@ -18,9 +18,13 @@ from langchain_openai import ChatOpenAI
 
 st.set_page_config(page_title='Jesse Henson' ,layout="wide",page_icon='🏠')
 
+st.image(info['Photo'])
+
+openai_api_key = st.text_input('Enter your OpenAI API Key and hit Enter', type="password")
+
+
 # -----------------  chatbot  ----------------- #
 # Set up the OpenAI key
-openai_api_key = st.sidebar.text_input('Enter your OpenAI API Key and hit Enter', type="password")
 openai.api_key = (openai_api_key)
 
 # load the file
@@ -68,8 +72,7 @@ if user_input:
     st.info(ask_bot(user_input))
 
 # -----------------  loading assets  ----------------- #
-st.sidebar.image(info['Photo'], width=200)
-    
+
 def load_lottieurl(url: str):
     r = requests.get(url)
     if r.status_code != 200:

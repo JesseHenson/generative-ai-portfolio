@@ -11,7 +11,7 @@ st.set_page_config(page_title='Resume' ,layout="wide",page_icon='📝')
 local_css("style/style.css")
 
 
-st.sidebar.image(info['Photo'])
+
 
 st.title("📝 Resume")
 
