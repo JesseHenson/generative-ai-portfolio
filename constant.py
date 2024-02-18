@@ -7,8 +7,9 @@ info = {
 At George Mason University and Revgen Partners, I've led projects that push the boundaries of AI's application—from deep fake mitigation strategies using advanced computer vision techniques to streamlining data governance for Fortune 100 companies. My passion for AI extends to developing AWS-hosted LLM-based chat-bots and Generative AI knowledge graphs, significantly enhancing business innovation and resource management.""",
    "Medium":"https://medium.com/@jesse.henson",
    "City":"Boulder, Colorado",
-   "Photo":"""https://media.licdn.com/dms/image/C4E03AQGR9T5QCNXotw/profile-displayphoto-shrink_200_200/0/1632163819917?e=1712188800&v=beta&t=iPrfLDyXFYGYwC-NWpSqJpKV53vW4XjDkH8A0CIa5vw""",
-   "Email": "henson.jhenson.jesse@gmail.com"
+   "Photo":"images/profile_pic.jpg",
+   "Email": "henson.jhenson.jesse@gmail.com",
+   "Hobbies":["Linux Distros","Cooking","Meditation","Brewing","Home Automation"]
 }
 
 embed_rss= {

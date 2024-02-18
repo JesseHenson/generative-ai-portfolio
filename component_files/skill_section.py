@@ -12,6 +12,7 @@ def grey_color_func(word, font_size, position, orientation, random_state=None,
     return "hsl(0, 0%%, %d%%)" % random.randint(60, 100)
 
 def create_skill_section():
+    st.subheader("🤹 Skill")
     mask = np.array(Image.open('images/github_wht_bckgrd.png'))
 
     wc = WordCloud(max_words=1000, mask=mask, margin=10,
